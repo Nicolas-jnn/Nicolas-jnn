@@ -1,7 +1,7 @@
 ### Welcome to Nicolas' GitHub Repository!
 
 ## About Me
-I'm Nicolas, currently pursuing a bachelor's degree in Chemical Engineering at EPFL (École Polytechnique Fédérale de Lausanne). I'm here to share some of my projects and learn the world of coding and engineering.
+I'm Nicolas, currently pursuing a master's degree in Chemical Engineering at EPFL (École Polytechnique Fédérale de Lausanne). I'm here to share some of my projects and learn the world of coding and engineering.
 
 ## My Interests
 While I'm deeply engaged in chemical engineering studies, I have a few other interests that keep me curious:
